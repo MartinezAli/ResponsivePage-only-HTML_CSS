@@ -1,0 +1,70 @@
+header{
+    background-position: center;
+}
+
+.contenedor-sobre-nosotros{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre-nosotros .contenido-textos{
+    width: 90%;
+}
+
+.imagen-about-us{
+    width: 90%;
+}
+
+.imagen-port{
+    width: 44%;
+}
+
+.cards{
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards .card{
+    width: 90%;
+}
+
+.cards .card:first-child{
+    margin-bottom: 3rem;
+}
+
+.servicio-cont{
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.servicio-cont .servicio-ind{
+    width: 90%;
+    text-align: center;
+    justify-content: center;
+}
+
+.servicio-ind:nth-child(1), .servicio-ind:nth-child(2){
+    margin-bottom: 6rem;
+}
+
+.contenedor-footer{
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.content-foo h4{
+    border: none;
+}
+
+.content-foo{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.servicio-cont .servicio-ind p{
+    text-align: center;
+}

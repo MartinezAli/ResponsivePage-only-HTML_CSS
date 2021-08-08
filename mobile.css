@@ -1,0 +1,72 @@
+nav{
+    text-align: center;
+    padding: 3rem 0rem 0rem 0rem;
+}
+
+nav > a{
+    margin-right: 0.5rem;
+}
+
+.texto-header h1{
+    font-size: 3.5rem;
+}
+
+.texto-header h2{
+    font-size: 2rem;
+}
+
+.imagen-about-us{
+    margin-bottom: 6rem;
+    width: 99%;
+}
+
+.sobre-nosotros .contenido-textos{
+    width: 95%;
+}
+
+main .sobre-nosotros{
+    padding: 3rem 0rem 6rem 0rem;
+}
+
+.imagen-port{
+    width: 95%;
+}
+
+.cards .card{
+    height: 45rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards .card img{
+    width: 15rem;
+    height: 15rem;
+}
+
+.content-foo{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.content-foo h4{
+    border: none;
+}
+
+.content-foo p{
+    color: #ccc;
+    border-bottom: 0.1rem solid gray;
+    padding-bottom: 2rem;
+}
+
+.titulo-final{
+    font-size: 2rem;
+}
+
+.cards .card h4{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.cards .card p{
+    text-align: center;
+}
